@@ -1,7 +1,7 @@
 # Towards All Weather and Unobstructed Multi-Spectral Image Stitching: Algorithm and Benchmark
 
 
-Zhiying Jiang, Zengxi Zhang, Xin Fan, Guanyao Wu, Risheng Liu* ,**“Towards All Weather and Unobstructed Multi-Spectral Image Stitching: Algorithm and Benchmark”**, Proceedings of the 30th ACM International Conference on Multimedia **(ACMMM)**, 2022. [*[paper]*](https://dl.acm.org/doi/abs/10.1145/3503161.3547966)
+Zhiying Jiang, Zengxi Zhang, Xin Fan, Guanyao Wu, Risheng Liu* ,**“Towards All Weather and Unobstructed Multi-Spectral Image Stitching: Algorithm and Benchmark”**, Proceedings of the 30th ACM International Conference on Multimedia **(ACM MM)**, 2022. [*[paper]*](https://dl.acm.org/doi/abs/10.1145/3503161.3547966)
 ## Overview
 ![Abstract](figures/structure.png)
 
