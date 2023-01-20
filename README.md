@@ -53,4 +53,4 @@ The dataset will be posted soon...
 }
 ```
 ## Contact
-If you have any question or suggestion about the dataset, please email to [Zengxi Zhang](cyouzoukyuu@gmail.com) or [Zhiying Jiang](zyjiang0630@gmail.com).
+If you have any question or suggestion, please email to [Zengxi Zhang](cyouzoukyuu@gmail.com) or [Zhiying Jiang](zyjiang0630@gmail.com).
