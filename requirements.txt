@@ -1,0 +1,4 @@
+tf-slim==1.1.0
+opencv-python~=3.4.11.39
+pillow==8.4.0
+tflearn==0.5.0
