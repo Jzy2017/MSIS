@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ## Test
 ### Step 1: Generate aligned images
 Modidy the 'H_estimation/test.py' to set the 'device' and 'data_root'.  
-generate aligned images by estimating homography matrix:
+Generate aligned images by estimating homography matrix:
 ```
 cd H_estimation
 python test.py
@@ -34,7 +34,7 @@ The generated images are used to the subsequent reconstruction.
 
 ### Step 2: Generate stitched images
 Modidy the 'Reconstruction/test.py' to set the 'device' and 'data_root'.  
-generate stitched images:
+Generate stitched images:
 ```
 cd ../Reconstruction
 python test.py
